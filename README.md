@@ -1,6 +1,6 @@
 # Image-based-Character-Recognition-and-Translation-Application
 <h1 align="center">Hi 👋, I'm Salako Emmanuel</h1>
-<h3 align="center">A passionate Data Scientist based in Berlin, Germany</h3>
+<h3 align="center">A Passionate Data Scientist based in Berlin, Germany</h3>
 
 - 🔭 I’m currently working on **Image-based Character Recognition and Translation Application**
 
